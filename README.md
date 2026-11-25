@@ -32,5 +32,6 @@ Building full-stack web applications, data pipelines, and clean software systems
 
 ### Connect
 
+- LinkedIn: [linkedin.com/in/abdelrahman-fadlia](https://www.linkedin.com/in/abdelrahman-fadlia/)
 - Email: `abdelrhmanfadlia@gmail.com`
 - Location: **Heilbronn, Germany**
